@@ -1,5 +1,3 @@
-# Exploring the Future of Work with AI
-
 I experiment with the future of work, using applied AI.  
 When people are given AI tools, how do they know what they can do better, faster, or differently, where the difference actually matters?  
 
@@ -24,7 +22,7 @@ That’s what we can figure out together.
 
 ## Contact
 
-Best way to reach me is on **X** or via email: `Rhys [at] unvanity.com`
+Best way to reach me is on **[X](https://x.com/virtual_rf)** or via email: `Rhys [at] unvanity.com`
 
 ## Recent Work
 
