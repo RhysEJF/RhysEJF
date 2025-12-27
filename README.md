@@ -2,6 +2,7 @@ I experiment with the future of work, using applied AI.
 When people are given AI tools, how do they know what they can do better, faster, or differently, where the difference actually matters?  
 
 They don't. Not at first. They discover it by experimenting, by failing, by finding the edges where AI amplifies and where only humans can act.  
+
 This was true when GPT-3 captured mainstream attention. It remains true today.
 
 Here's what I've learned: **AI is replacing work.** That's real. But it's also opening doors that were closed before, things people couldn't attempt alone.  
@@ -9,9 +10,8 @@ Here's what I've learned: **AI is replacing work.** That's real. But it's also o
 You can just build things now!  
 I know this because I've lived it.  
 
-I've **chosen**to adopt AI playfully across every area of my life. From [startups](https://askrally.com/) to designing a [custom gravel bike](https://howlerbikes.com/), I’ve leaned on AI heavily to tackle new challenges.  
+I've **chosen** to adopt AI playfully across every area of my life. From [startups](https://askrally.com/) to designing a [custom gravel bike](https://howlerbikes.com/), I’ve leaned on AI heavily to tackle new challenges.  And I love it! It’s **empowering**.  
 
-And I love it! It’s **empowering**.  
 That's what I think the future of work looks like for a lot of people. Not just "doing your job faster," but discovering what you can become when the old barriers fall away.  
 
 I call this **augmented agency**: AI as a lever for human becoming, not just human doing.  
