@@ -5,7 +5,7 @@ They don't. Not at first. They discover it by experimenting, by failing, by find
 
 This was true when GPT-3 captured mainstream attention. It remains true today.
 
-Here's what I've learned: AI is replacing work. That's real. But it's also opening doors that were closed before, things people couldn't attempt alone.  
+Here's what I've learned. AI is replacing work. That's real. But it's also opening doors that were closed before, things people couldn't attempt alone.  
 
 You can just build things now!  
 I know this because I've lived it.  
