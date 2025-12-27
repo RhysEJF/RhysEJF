@@ -14,9 +14,9 @@ I've chosen to adopt AI playfully across every area of my life. From [startups](
 
 That's what I think the future of work looks like for a lot of people. Not just "doing your job faster," but discovering what you can become when the old barriers fall away.  
 
-I call this augmented agency: AI as a lever for human becoming, not just human doing.  
+I call this augmented agency. AI as a lever for human becoming, not just human doing.  
 
-The question is: what could you become if you get equipped with AI?  
+The question is, what could you become if you get equipped with AI?  
 
 That’s what we can figure out together.  
 
