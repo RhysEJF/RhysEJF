@@ -1,4 +1,5 @@
 I experiment with the future of work, using applied AI.  
+
 When people are given AI tools, how do they know what they can do better, faster, or differently, where the difference actually matters?  
 
 They don't. Not at first. They discover it by experimenting, by failing, by finding the edges where AI amplifies and where only humans can act.  
