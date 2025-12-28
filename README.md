@@ -5,20 +5,20 @@ They don't. Not at first. They discover it by experimenting, by failing, by find
 
 This was true when GPT-3 captured mainstream attention. It remains true today.
 
-Here's what I've learned. AI is replacing work. That's real. But it's also opening doors that were closed before, things people couldn't attempt alone.  
+So I've been asking myself. What does this actually mean? Here's what I've landed on.
+
+AI is replacing work. That's real. But it's also opening doors that were closed before, things people couldn't attempt alone.  
 
 You can just build things now!  
 I know this because I've lived it.  
 
-I've chosen to adopt AI playfully across every area of my life. From [startups](https://askrally.com/) to designing a [custom gravel bike](https://howlerbikes.com/), I’ve leaned on AI heavily to tackle new challenges.  And I love it! It’s empowering.  
+I am activly adopting AI across my whole life. From [startups](https://askrally.com/) to designing a [custom gravel bike](https://howlerbikes.com/), things I might not have dare attempt before. It's become a daily practise. And I love it!  
 
-That's what I think the future of work looks like for a lot of people. Not just "doing your job faster," but discovering what you can become when the old barriers fall away.  
+That's the future of work I believe in. Not just "doing your job faster," but discovering who you can become when the old barriers fall away.  
 
 I call this augmented agency. AI as a lever for human becoming, not just human doing.  
 
-The question is, what could you become if you get equipped with AI?  
-
-That’s what we can figure out together.  
+I'm still figuring this out. But if you feel I can help, let's talk.
 
 ## Contact
 
