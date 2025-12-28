@@ -1,4 +1,4 @@
-I experiment with the future of work, using applied AI.  
+I experiment with applied AI. What it changes, what it enables, what it makes possible.
 
 When people are given AI tools, how do they know what they can do better, faster, or differently, where the difference actually matters?  
 
@@ -13,7 +13,7 @@ AI is replacing work. That's real. But it's also opening doors that were closed 
 You can just build things now!  
 I know this because I've lived it.  
 
-I am activly adopting AI across my whole life. From [startups](https://askrally.com/) to designing a [custom gravel bike](https://howlerbikes.com/), things I might not have dare attempt before. It's become a daily practise. And I love it!  
+I am activly adopting AI across my whole life. From [startups](https://askrally.com/) to designing a [custom gravel bike](https://howlerbikes.com/), things I might not have dared attempt before. It's become a daily practise. And I love it!  
 
 That's the future of work I believe in. Not just "doing your job faster," but discovering who you can become when the old barriers fall away.  
 
