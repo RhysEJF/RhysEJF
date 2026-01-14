@@ -27,6 +27,10 @@ Best way to reach me is on **[X](https://x.com/virtual_rf)** or via email: `Rhys
 
 ## Recent Work
 
+**[fizz](https://www.fizz.fit/)** – (launching soon)
+
+**[RideReady](https://www.rideready.xyz/)** – Keep your bike running smoothly.
+
 **[AskRally](https://askrally.com/)** – What if running focus groups didn't cost thousands of dollars and weeks of scheduling, but instead, insights landed in minutes?  
 
 The goal of this project is to train AI on real human opinions so you can switch on an always-on voice of [enter your persona of interest]. It works like an LLM: you ask a question and get role-played replies back, dozens of them.  
