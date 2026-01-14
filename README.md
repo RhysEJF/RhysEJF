@@ -31,8 +31,4 @@ Best way to reach me is on **[X](https://x.com/virtual_rf)** or via email: `Rhys
 
 **[RideReady](https://www.rideready.xyz/)** – Keep your bike running smoothly.
 
-**[AskRally](https://askrally.com/)** – What if running focus groups didn't cost thousands of dollars and weeks of scheduling, but instead, insights landed in minutes?  
-
-The goal of this project is to train AI on real human opinions so you can switch on an always-on voice of [enter your persona of interest]. It works like an LLM: you ask a question and get role-played replies back, dozens of them.  
-
-I drove a lot of the early [use case exploration](https://askrally.com/articles) and, when the API dropped, explored **[automated workflows](https://askrally.com/workflows)**, some of which made it into the product (e.g., [video reaction generation](https://askrally.com/article/reels-reaction-simulator-examples).)
+**[AskRally](https://askrally.com/)** – Get instant feedback on your ideas with virtual focus groups.
