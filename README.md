@@ -13,7 +13,7 @@ AI is replacing work. That's real. But it's also opening doors that were closed 
 You can just build things now!  
 I know this because I've lived it.  
 
-I am activly adopting AI across my whole life. I cofounded [Askrally](https://askrally.com/), and solo-founded [RideReady](https://www.rideready.xyz/), [fizz]([https://www.fizz.fit/](https://fizz.fit/)), vibe built my own [custom gravel bike](https://howlerbikes.com/), and accomplished bunch of other things I might not have dared attempt before. It's become a daily practise. And I love it!  
+I am activly adopting AI across my whole life. I cofounded [Askrally](https://askrally.com/), and solo-founded [RideReady](https://www.rideready.xyz/), [fizz](https://www.fizz.fit/), vibe designed my own [custom gravel bike](https://howlerbikes.com/), am starting a community for [expert pilots of AI swarms](https://thecognitiveshift.com/), and am accomplishing a bunch of other things I might not have dared attempt before. It's become a daily practise. And I love it!  
 
 That's the future of work I believe in. Not just "doing your job faster," but discovering who you can become when the old barriers fall away.  
 
@@ -27,7 +27,9 @@ Best way to reach me is on **[X](https://x.com/virtual_rf)** or via email: `Rhys
 
 ## Recent Work
 
-**[fizz](https://www.fizz.fit/)** – (launching soon)
+**[TheCognitiveShift](https://thecognitiveshift.com/)** - Learn to build the AI workforce your industry doesn't see coming
+
+**[fizz](https://www.fizz.fit/)** – the best part of your workout
 
 **[RideReady](https://www.rideready.xyz/)** – Keep your bike running smoothly.
 
